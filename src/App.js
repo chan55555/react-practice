@@ -2,7 +2,7 @@ import React, { useState, Component } from "react";
 import "./App.css";
 
 function App() {
-  const name = { fname: "khushnam Singh", city: "patna" };
+  const name = { fname: "khushnam Singh", city: "Jamshedpur" };
   function hello() {
     return "kanhaiya kumar";
   }
