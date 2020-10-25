@@ -8,7 +8,7 @@ function App() {
   }
   return (
     <>
-      <h1>Hello World</h1>
+      <h1>Hello React</h1>
       <h1>Hello :{hello()} </h1>
       <h1>Your first name : {name.fname}</h1>
       <h1>Your City Name : {name.city}</h1>
